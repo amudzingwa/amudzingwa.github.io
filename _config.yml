@@ -23,7 +23,7 @@ repository               : "amudzingwa/amudzingwa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot-obs-2025.jpeg"
   name             : "Asheley Mudzingwa"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science student (BSc) at Ohio Dominican University."
