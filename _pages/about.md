@@ -16,6 +16,7 @@ Research Interests
 My research interests include:
 
 - Computer Vision
+- Deep Learning
 - Human–Computer Interaction (HCI)
 - Large Language Models (LLMs)
 - Reinforcement Learning
