@@ -23,12 +23,12 @@ My research interests include:
 
 I am particularly interested in research opportunities that align with these areas and welcome positions involving related topics.
 
-Featured Research Experience
+Featured Research Experiences
 ======
 - **May - July 2026 (ongoing):** Interned at the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS) at Morgan State University. My research, **Post Disaster Damage Assessment**, focused on developing an automated model to classify building damage post-disaster using four classes: damaged, major damage, minor damage, undamaged which align with the ATC-20 procedures for post-disaster safety evaluation of buildings guidelines. You can read more about my research [here](https://amudzingwa.github.io/amudzingwaceamls26.github.io/).
 - **May 2026:** I presented my paper, **Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships**, at the Ohio Dominican University seniors conference. The paper was presented in fulfillment of the requirements as a graduating senior and a member of the Ohio Dominican University Honor's Scholars program. You can read a preprint of my paper [here](https://drive.google.com/file/d/1mwAZ1t-Gt1omuGlGHEeI5GtKDFdXVi4U/view?usp=sharing).
 
-Other Professional Experience
+Other Professional Experiences
 ======
 - **May 2025 - August 2025:** Information Technology Intern, FC Bank - Columbus, Ohio
 - **August 2024 - May 2025:** Information and Data Intern, Secured Advantage Insurance - Columbus, Ohio
