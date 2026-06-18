@@ -11,33 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Comouter Science, Ohio Dominican University, 2026
+* B.Sc. in Computer Science, Ohio Dominican University, 2026
+  * Member of the Honor's Scholars program
 
-Work experience
+Work & Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2026: Research Intern
+  * Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS) at Morgan State University
+  * Duties included: Developing an automated computer vision model for Post Disaster Damage Assessment to classify building damage based on ATC-20 procedures.
+  * Supervisor: Dr. Steve Efe
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2025 - August 2025: Information Technology Intern
+  * FC Bank - Columbus, Ohio
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2024 - May 2025: Information and Data Intern
+  * Secured Advantage Insurance - Columbus, Ohio
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Areas
+  * Computer Vision & Deep Learning
+  * Natural Language Processing (NLP) & Large Language Models (LLMs)
+  * Human–Computer Interaction (HCI)
+  * Reinforcement Learning
+* Technical & Programming
+  * Languages: Python, C++
+  * Frameworks & Libraries: Next.js, React, Tailwind CSS
+
+Presentations & Conferences
+======
+* **May 2026:** *Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships*. Presented at the Ohio Dominican University seniors conference in fulfillment of graduation and Honor's Scholars program requirements.
 
 Publications
 ======
