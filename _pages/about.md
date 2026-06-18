@@ -30,4 +30,4 @@ Featured Research Experience
 Other Professional Experience
 ======
 - **May 2025 - August 2025:** Information Technology Intern, FC Bank - Columbus, Ohio
-- **August 2024 - May 2025:** Information and Data Intern, Secured Advantage Intern - Columbus, Ohio
+- **August 2024 - May 2025:** Information and Data Intern, Secured Advantage Insurance - Columbus, Ohio
