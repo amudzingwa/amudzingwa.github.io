@@ -1,0 +1,15 @@
+---
+title: 'My paper Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships got presented at Ohio Dominican University'
+date: 2026-05-15
+permalink: /blog/detecting-humanized-ai-te/
+tags:
+  - presentation
+---
+
+I presented my paper, "**Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships**" at the 2026 Honors Scholars conference at Ohio Dominican. The paper was completed in fulfillment of the Honors Scholars program and senior year requirements at Ohio Dominican University. 
+
+I was supervised by [Dr. Nishatul Majid](https://www.ohiodominican.edu/about/campus-directory/employee-profiles/nishatul-majid.html) (*primary*) and [Dr. Alae Loukili](https://www.ohiodominican.edu/about/campus-directory/employee-profiles/alae-loukili.html) (*secondary*).
+
+You can access a preprint of my paper using [this link](https://github.com/amudzingwa/amudzingwa.github.io/blob/master/files/mudzingwaODU2026.pdf). 
+
+------
