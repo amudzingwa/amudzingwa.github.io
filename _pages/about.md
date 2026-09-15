@@ -9,8 +9,6 @@ redirect_from:
 
 I am an undergraduate student majoring in Computer Science at **Ohio Dominican University**. My research interest is focused in representation learning and fine-grained visual recognition (FGVR) in Computer Vision. Contact me by email (mudzinga@ohiodominican.edu) for research opportunities.
 
-Over the summer of 2026, I interned at the **Center for Equitable Artificial Intelligence and Machine Learning Systems** at Morgan State University supervised by [Dr. Steve Efe](https://www.morgan.edu/civil-and-environmental-engineering/faculty-and-staff/dr-steve-efe). You can read more of my research experience there [here](https://amudzingwa.github.io/amudzingwaceamls26.github.io/).
-
 Projects
 ======
 ### Computer Vision for Post-Disaster Building Damage Assessment
@@ -36,7 +34,7 @@ As humanizations tools become prevalent for large language models, it becomes ch
 News
 ======
 - **August 2026:** My honors thesis, **Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships**, was published in the OhioLink online thesis database. You can access the paper using [this link](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=oduhonors1778686615770394&clear=10&session=113297571542855).
-- **July 2026:** I presented my research, **Post Disaster Damage Assessment**, at the **National Symposium on Equitable AI** conference in Baltimore, Maryland. 
+- **July 2026:** We presented our research, **Computer Vision for Post-Disaster Building Damage Assessment**, at the **National Symposium on Equitable AI** conference in Baltimore, Maryland. 
 - **May 2026 - July 2026:** Interned at the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS) at Morgan State University. My research, **Post Disaster Damage Assessment**, focused on developing an automated model to classify building damage post-disaster using four classes: damaged, major damage, minor damage, undamaged which align with the ATC-20 procedures for post-disaster safety evaluation of buildings guidelines. You can read more about my research [here](https://amudzingwa.github.io/amudzingwaceamls26.github.io/).
 - **May 2026:** I presented my paper, **Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships**, at the Ohio Dominican University seniors conference. The paper was presented in fulfillment of the requirements as a graduating senior and a member of the Ohio Dominican University Honor's Scholars program. You can read a preprint of my paper [here](https://drive.google.com/file/d/1mwAZ1t-Gt1omuGlGHEeI5GtKDFdXVi4U/view?usp=sharing).
 
