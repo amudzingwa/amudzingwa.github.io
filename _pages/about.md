@@ -7,21 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student majoring in Computer Science at **Ohio Dominican University**. My undergraduate research experience is in natural language learning and computer vision. I am currently actively looking for graduate research positions in these and related areas. Please feel free to contact me by email (mudzinga@ohiodominican.edu) for research opportunities.
+I am an undergraduate student majoring in Computer Science at **Ohio Dominican University**. My research interest is focused in representation learning and fine-grained visual recognition (FGVR) in Computer Vision. Contact me by email (mudzinga@ohiodominican.edu) for research opportunities.
 
 Over the summer of 2026, I interned at the **Center for Equitable Artificial Intelligence and Machine Learning Systems** at Morgan State University supervised by [Dr. Steve Efe](https://www.morgan.edu/civil-and-environmental-engineering/faculty-and-staff/dr-steve-efe). You can read more of my research experience there [here](https://amudzingwa.github.io/amudzingwaceamls26.github.io/).
 
-Research Interests
+Projects
 ======
-My research interests include:
+### Computer Vision for Post-Disaster Building Damage Assessment
 
-- Computer Vision
-- Natural Language Processing
-- Human–Computer Interaction (HCI)
+<img src="/images/bird_project.jpg" width="250">
 
-I am particularly interested in research opportunities that align with these areas and welcome positions involving related topics.
+It is challenging to provide rapid post-disaster building damage assessment. We develop a post-disaster building damage assessment model using satellite imagery and built on three different deep learning architectures - ResNet-50 encoder with U-Net decoder, Siamese change-detection network, and a Vision Transformer (ViT-B/16), and evaluated on the xBD dataset. Our best performing model achieved an overall accuracy of 0.87 and recall of 0.9. 
 
-Featured Experiences
+**Links:**  
+[Poster](files/bird_poster.pdf)
+
+---
+
+### Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships
+
+<img src="/images/llm_project.jpg" width="250">
+
+As humanizations tools become prevalent for large language models, it becomes challenging to distinguish original and humanized text. I constructed an original database consisting of over 4,000 computer generated and humanized text, and compared them against original student written text. I further compared the humanized and pure machine-generated text to investigate their statistical difference. My findings were that there is little statistical differences between machine generated and humanized text, but a larger difference with original student written text. 
+
+**Links:**  
+[Pre-text](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=oduhonors1778686615770394&clear=10&session=113297571542855)
+
+News
 ======
 - **August 2026:** My honors thesis, **Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships**, was published in the OhioLink online thesis database. You can access the paper using [this link](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=oduhonors1778686615770394&clear=10&session=113297571542855).
 - **July 2026:** I presented my research, **Post Disaster Damage Assessment**, at the **National Symposium on Equitable AI** conference in Baltimore, Maryland. 
