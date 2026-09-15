@@ -19,11 +19,10 @@ It is challenging to provide rapid post-disaster building damage assessment. We 
 
 ---
 
-### Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships
+### [Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=oduhonors1778686615770394&clear=10&session=113297571542855)
 
 As humanizations tools become prevalent for large language models, it becomes challenging to distinguish original and humanized text. I constructed an original database consisting of over 4,000 computer generated and humanized text, and compared them against original student written text. I further compared the humanized and pure machine-generated text to investigate their statistical difference. My findings were that there is little statistical differences between machine generated and humanized text, but a larger difference with original student written text. 
 
-[Pre-text](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=oduhonors1778686615770394&clear=10&session=113297571542855)
 
 News
 ======
