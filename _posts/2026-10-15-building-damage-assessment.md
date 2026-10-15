@@ -4,15 +4,6 @@ date: 2026-05-15
 permalink: /blog/building-damage-assessment/
 tags:
   - research, computer vision
----
-
----
-layout: post
-title: "Can AI Help Us Assess Building Damage After a Disaster?"
-date: 2026-10-15
-categories: [research, computer-vision, machine-learning]
-tags: [remote-sensing, disaster-response, xBD, ResNet, Vision-Transformer]
----
 
 ----------
 After a major disaster, response teams need to understand which buildings have been damaged in order to assess safety and risk levels during relief efforts. Satellite imagery can provide a broad view of affected areas, but manually reviewing large amounts of imagery can be time-consuming.
