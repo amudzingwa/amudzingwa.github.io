@@ -1,9 +1,9 @@
 ---
 title: 'My paper Detecting Humanized AI Text in Academic Writing Through Mathematical Source Relationships got presented at Ohio Dominican University'
 date: 2026-05-15
-permalink: /blog/detecting-humanized-ai-text/
+permalink: /blog/building-damage-assessment/
 tags:
-  - presentation
+  - research, computer vision
 ---
 
 ---
