@@ -5,7 +5,8 @@ permalink: /blog/building-damage-assessment/
 tags:
   - research, computer vision
 
-----------
+---
+
 After a major disaster, response teams need to understand which buildings have been damaged in order to assess safety and risk levels during relief efforts. Satellite imagery can provide a broad view of affected areas, but manually reviewing large amounts of imagery can be time-consuming.
 
 In this project, our team explored whether deep-learning models could classify building damage from satellite imagery. The goal was not to replace trained inspectors, but to investigate how computer vision might help in post disaster rescue efforts.
@@ -135,7 +136,7 @@ Thanks to my teammates Alameen Adeku, Asheley Mudzingwa, Christian Messado, and 
 2.  United Nations Office for Disaster Risk Reduction (2020). _The Human Cost of Disasters: An Overview of the Last 20 Years (2000–2019)._  [UNDRR report](https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019).
     
 
-----------
+---
 
 
 *This post summarizes a student research project and its presentation results. The reported metrics are included as presented and should be independently verified before being used for operational or scientific claims.*
